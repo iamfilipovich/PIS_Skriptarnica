@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
+  <diagram name="Page-1" id="sNTGYkjlJmNBTVD02OhW">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-3" value="Voditelj&amp;nbsp;&lt;div&gt;sustava&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rs9EoHBcvVgKrkt6CDJD-15" target="Rs9EoHBcvVgKrkt6CDJD-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-37" value="Potvrde o&lt;div&gt;uspješno izvršenim&lt;/div&gt;&lt;div&gt;promjenama&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Rs9EoHBcvVgKrkt6CDJD-34" vertex="1" connectable="0">
+          <mxGeometry x="-0.1814" y="1" relative="1" as="geometry">
+            <mxPoint x="-34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Rs9EoHBcvVgKrkt6CDJD-15" target="Rs9EoHBcvVgKrkt6CDJD-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-55" value="Prikaz narudžbi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Rs9EoHBcvVgKrkt6CDJD-44" vertex="1" connectable="0">
+          <mxGeometry x="-0.5478" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Rs9EoHBcvVgKrkt6CDJD-15" target="Rs9EoHBcvVgKrkt6CDJD-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-51" value="Narudžba&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;knjiga&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Rs9EoHBcvVgKrkt6CDJD-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.5455" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-15" value="P0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-16" value="&quot;SkriptaSys&quot;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Rs9EoHBcvVgKrkt6CDJD-15" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Rs9EoHBcvVgKrkt6CDJD-26" target="Rs9EoHBcvVgKrkt6CDJD-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-57" value="Narudžbe" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Rs9EoHBcvVgKrkt6CDJD-56" vertex="1" connectable="0">
+          <mxGeometry x="-0.4957" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-27" value="Dobavljač" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="750" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-28" value="Kupac" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-33" value="Administrator" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.954;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Rs9EoHBcvVgKrkt6CDJD-33" target="Rs9EoHBcvVgKrkt6CDJD-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-50" value="Upravljanje&lt;div&gt;korisnicima&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Rs9EoHBcvVgKrkt6CDJD-49" vertex="1" connectable="0">
+          <mxGeometry x="-0.5739" y="-2" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.018;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Rs9EoHBcvVgKrkt6CDJD-25" target="Rs9EoHBcvVgKrkt6CDJD-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9EoHBcvVgKrkt6CDJD-53" value="Isporuka knjiga" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Rs9EoHBcvVgKrkt6CDJD-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.5122" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
